@@ -33,10 +33,10 @@ export default function Footer() {
             <a href="https://wa.me/5527997353388" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-primary-foreground/70 hover:text-primary-light transition-colors">
               <MessageCircle className="h-4 w-4" /> WhatsApp: (27) 99735-3388
             </a>
-            <a href="https://instagram.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-primary-foreground/70 hover:text-primary-light transition-colors">
+            <a href="https://instagram.com/tonyrosa7358" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-primary-foreground/70 hover:text-primary-light transition-colors">
               <Instagram className="h-4 w-4" /> @Tony Rosa
             </a>
-            <a href="https://facebook.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-primary-foreground/70 hover:text-primary-light transition-colors">
+            <a href="https://www.facebook.com/share/1MYMsY7Yaj/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-primary-foreground/70 hover:text-primary-light transition-colors">
               <Facebook className="h-4 w-4" /> Tony Rosa
             </a>
           </div>
@@ -44,10 +44,10 @@ export default function Footer() {
           <div className="space-y-3">
             <h4 className="font-serif text-sm font-semibold">Redes Sociais</h4>
             <div className="flex gap-3">
-              <a href="https://instagram.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="h-10 w-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-light/20 transition-colors">
+              <a href="https://instagram.com/tonyrosa7358" target="_blank" rel="noopener noreferrer" className="h-10 w-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-light/20 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="https://facebook.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="h-10 w-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-light/20 transition-colors">
+              <a href="https://www.facebook.com/share/1MYMsY7Yaj/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="h-10 w-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-light/20 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
             </div>
