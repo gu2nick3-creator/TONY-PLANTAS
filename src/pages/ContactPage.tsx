@@ -25,13 +25,13 @@ export default function ContactPage() {
                 <p className="text-sm text-muted-foreground">(27) 99735-3388</p>
               </div>
             </a>
-            <a href="https://instagram.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 bg-card rounded-xl p-5 border border-border hover:border-primary/30 transition-colors group">
+            <a href="https://instagram.com/tonyrosa7358" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 bg-card rounded-xl p-5 border border-border hover:border-primary/30 transition-colors group">
               <div className="h-12 w-12 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                 <Instagram className="h-6 w-6 text-primary" />
               </div>
               <div>
                 <p className="font-semibold text-foreground">Instagram</p>
-                <p className="text-sm text-muted-foreground">@Tony Rosa</p>
+                <p className="text-sm text-muted-foreground">@TonyRosa7358</p>
               </div>
             </a>
             <a href="https://facebook.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 bg-card rounded-xl p-5 border border-border hover:border-primary/30 transition-colors group">
@@ -40,7 +40,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <p className="font-semibold text-foreground">Facebook</p>
-                <p className="text-sm text-muted-foreground">Tony Rosa</p>
+                <p className="text-sm text-muted-foreground">Tony Plantas</p>
               </div>
             </a>
           </div>
