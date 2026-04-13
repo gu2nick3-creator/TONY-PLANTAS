@@ -36,10 +36,10 @@ export default function Header() {
         </nav>
 
         <div className="hidden md:flex items-center gap-3">
-          <a href="https://instagram.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors" aria-label="Instagram">
+          <a href="https://instagram.com/tonyrosa7358" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors" aria-label="Instagram">
             <Instagram className="h-5 w-5" />
           </a>
-          <a href="https://facebook.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors" aria-label="Facebook">
+          <a href="https://www.facebook.com/share/1MYMsY7Yaj/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors" aria-label="Facebook">
             <Facebook className="h-5 w-5" />
           </a>
         </div>
@@ -58,8 +58,8 @@ export default function Header() {
               </Link>
             ))}
             <div className="flex gap-4 pt-2 px-3">
-              <a href="https://instagram.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary"><Instagram className="h-5 w-5" /></a>
-              <a href="https://facebook.com/tonyrosa" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary"><Facebook className="h-5 w-5" /></a>
+              <a href="https://instagram.com/tonyrosa7358" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary"><Instagram className="h-5 w-5" /></a>
+              <a href="https://www.facebook.com/share/1MYMsY7Yaj/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary"><Facebook className="h-5 w-5" /></a>
             </div>
           </nav>
         </div>
